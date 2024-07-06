@@ -1,5 +1,5 @@
 # GameToken 
-This Solidity project implements ERC20 tokens for "GEMS" and "GOLD" in the Clash of Village game. Players can deposite token,withdraw token,purchaseGems, and redeemGems.
+This Solidity project implements ERC20 tokens for "GameToken" and "Token" in the GameToken. Players can deposite token,withdraw token,purchaseGems, and redeemGems.
 
 ## Contracts Overview
 >>Contract 1: GameToken
